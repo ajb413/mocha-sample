@@ -6,6 +6,12 @@ https://mochajs.org/
 
 ```
 ## do these commands
+
+npm install -g npx
+
+## you might have to restart your terminal window
+
 npm install
-./node_modules/mocha/bin/mocha index.js
+
+npx index.js
 ```
